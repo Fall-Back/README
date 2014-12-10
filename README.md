@@ -1,0 +1,4 @@
+README
+======
+
+Introduction and Philosophy

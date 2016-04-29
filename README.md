@@ -1,4 +1,4 @@
-![Fall-Back](fallback-logo-wide-lg.jpg)
+![Fall-Back](fallback-logo-wide-lg.png)
 
 [http://fall-back.github.io](http://fall-back.github.io)
 

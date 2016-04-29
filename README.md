@@ -1,5 +1,6 @@
 ![Fall-Back](fallback-logo-wide-lg.jpg)
-README
+
+Introduction
 ======
 
 Fall-Back is a set of patterns, methodologies and a philosophy geared around providing a modern experience in modern browsers, but using hacks and a little JS as needed to provide an acceptable fallback experience for older browsers or browsers where CSS or JS isn't available (or disabled) and also taking into account accessibility issues. 

@@ -7,7 +7,7 @@ Useful bits and pieces.
 Colour Contrast Functions
 -------------------------
 
-Taking from [a Gist by voxpelli](https://gist.github.com/voxpelli/6304812), these functions could be really useful in intelligent theming, so a pattern may be able to adjust it's theme colours if the base colour is very light or dark, for example.
+Taken from [a Gist by voxpelli](https://gist.github.com/voxpelli/6304812), these functions could be really useful in intelligent theming, so a pattern may be able to adjust it's theme colours if the base colour is very light or dark, for example.
 
 ~~~
 @function color_luminance($color) {
